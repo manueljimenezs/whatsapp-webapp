@@ -1,4 +1,4 @@
-# whatsapp-webapp: An attempt to an ARM64 native Whatsapp client fully integrated with macOS
+# whatsapp-webapp: An attempt to a macOS fully integrated ARM64 native Whatsapp client
 
 <p align="center">
 <img src="picture.png">
